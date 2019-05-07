@@ -4,8 +4,8 @@
   font-family: 'Cinzel Decorative', cursive;
 }
 
-.w3-quarter h3 {
-  font-weight: bold;
+.w3-quarter  {
+
 }
 
 #domestic1 {
@@ -14,4 +14,21 @@
 #domestic2 {
   color: green;
 
+}
+
+#anteater {
+  font-style: italic;
+}
+
+#monkey {
+  font-family: fantasy;
+}
+
+.flexed-div{
+  justify-content: center;
+  width: 90%;
+}
+
+img {
+  height: 200px;
 }
