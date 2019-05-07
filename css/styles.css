@@ -1,0 +1,17 @@
+.header {
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.w3-quarter h3 {
+  font-weight: bold;
+}
+
+#domestic1 {
+  color: blue;
+}
+#domestic2 {
+  color: green;
+
+}
